@@ -22,7 +22,7 @@ Driven by my curiosity I always try to go deep in a technology to develop my pro
 
 ## Get In Touch 🤙
 
-- [mastodon](https://mastodon.social/@ndimah22)
-- [Email](mailto:ndimah22@protonmail.com)
+- Mastodon: [@ndimah22](https://mastodon.social/@ndimah22)
+- Email: [ndimah22@protonmail.com](mailto:ndimah22@protonmail.com)
 
 
