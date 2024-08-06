@@ -12,12 +12,12 @@ Driven by my curiosity I always try to go deep in a technology to develop my pro
 
 ## Key Projects 🚀
 
-- [Connect four game](https://github.com/jay-ike/connect-four-game): An adaptation of the [connect 4 game](https://en.wikipedia.org/wiki/Connect_Four) made in with the web platform
-- [Designo digital agency](https://github.com/jay-ike/designo-website): An Example of progressive enhancement with a full website of a fictional agency made without javascript on the client side
+- [Hangman game](https://ike-hangman-game.vercel.app): An installable Progressive Web Application emulating [the famous Hangman game](https://en.wikipedia.org/wiki/Hangman_(game)) using the web platform and thus no framework 
+- [Designo digital agency](https://ike-designo-website.vercel.app): An Example of progressive enhancement with a full website of a fictional agency made without javascript on the client side
 
 ## Professional Goals 🎯
 
-- **Career Development**: Going further in my software engineering career, mostly in roles that leverage my technical skills and enable me to build impactfull solutions
+- **Career Development**: Going further in my software engineering career, mostly in roles that leverage my technical skills and enable me to build impactful solutions
 - **Continuous Learning**: Committed to upgrade my critical thinking and keep advancing my coding skills
 
 ## Get In Touch 🤙
