@@ -6,7 +6,8 @@ Driven by my curiosity I always try to go deep in a technology to develop my pro
 
 ## Technical Skills 💻
 
-- **Languages**: ![Javascript logo](https://img.shields.io/badge/Javascript-5f5f5f?logo=javascript) &nbsp; ![HTML5 logo](https://img.shields.io/badge/HTML-35B6A4?logo=html5) &nbsp; ![CSS3 log](https://img.shields.io/badge/CSS-43418E?logo=css3) &nbsp; ![SVG logo](https://img.shields.io/badge/SVG-A44777?logo=svg) &nbsp; ![GNU Bash logo](https://img.shields.io/badge/GNU%20Bash-64464B?logo=gnubash) &nbsp;
+- **Languages**: ![Javascript logo](https://img.shields.io/badge/Javascript-5f5f5f?logo=javascript) &nbsp; ![HTML5 logo](https://img.shields.io/badge/HTML-35B6A4?logo=html5) &nbsp; ![CSS3 logo](https://img.shields.io/badge/CSS-43418E?logo=css3) &nbsp; ![SVG logo](https://img.shields.io/badge/SVG-A44777?logo=svg) &nbsp; ![GNU Bash logo](https://img.shields.io/badge/GNU%20Bash-64464B?logo=gnubash) &nbsp; ![Rust logo](https://img.shields.io/badge/rust-3030ab?logo=rust) &nbsp;
+
 - **Fameworks and Libraries**: ![Node.js logo](https://img.shields.io/badge/Node.js-474d55?logo=nodedotjs) &nbsp; ![Solid.js logo](https://img.shields.io/badge/Solid.js-466461?logo=solid) &nbsp; ![Eleventy logo](https://img.shields.io/badge/Eleventy-3b466a?logo=eleventy) &nbsp;
 - **Tools & Platforms**: ![Git logo](https://img.shields.io/badge/Git-731f1f?logo=git) &nbsp; ![Github logo](https://img.shields.io/badge/Github-175482?logo=github) &nbsp; ![Docker logo](https://img.shields.io/badge/Docker-3b460a?logo=docker) &nbsp; ![Neovim logo](https://img.shields.io/badge/Neovim-1B576F?logo=neovim) &nbsp; ![Vercel logo](https://img.shields.io/badge/Vercel-3b466a?logo=vercel) &nbsp; 
 
